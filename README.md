@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umrao-ak47
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Pl/SQL.
+- 👀 I’m interested in C++/Python Development
+- 🌱 I’m currently learning Java/APIs.
 - 💞️ I’m looking to collaborate on any medium level project
 - 📫 How to reach me: amitkumar583217@gmail.com
 
