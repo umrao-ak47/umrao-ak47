@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umrao-ak47
-- 👀 I’m interested in C++/Python Development
+- 👀 I’m interested in C++/Java/Python Development
 - 🌱 I’m currently learning Java/APIs.
 - 💞️ I’m looking to collaborate on any medium level project
 - 📫 How to reach me: amitkumar583217@gmail.com
